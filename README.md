@@ -1,5 +1,3 @@
-usamaqureshi/README.md
-
 👋 Hi, I’m Usama Qureshi and currently proficient in Python, SQL and BI tools.
 
 👯 I’m looking to collaborate on any oppurtunity that leads me to Data Analytics, Visualization and driving business value through Data.
