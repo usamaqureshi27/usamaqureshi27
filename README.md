@@ -1,6 +1,6 @@
 👋 Hi, I’m Usama Qureshi and currently proficient in Python, SQL and BI tools.
 
-👯 I’m looking to collaborate on any oppurtunity that leads me to Data Analytics, Visualization and driving business value through Data.
+👯 I’m looking to collaborate on any opportunity that leads me to Data Analytics, Visualization and driving business value through Data.
 
 🌱 I’m currently part of a product development team at Siemens Mobility as a work student.
 
